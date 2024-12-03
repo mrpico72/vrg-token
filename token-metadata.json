@@ -1,0 +1,17 @@
+{
+  "name": "Vast Returns Generated",
+  "symbol": "VRG",
+  "description": "A memecoin with vast potential for returns!",
+  "image": "https://example.com/icon.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Investment"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ]
+}
+
